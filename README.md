@@ -12,6 +12,7 @@ rxjava+retrofit+mvp形式基类以及引用
     compile 'com.android.support:multidex:1.0.0'//分包
 
 
+
     //retrofit和rxjava
     compile 'com.squareup.retrofit2:retrofit:2.0.0-beta3'
     compile 'com.squareup.okhttp3:logging-interceptor:3.1.2'
